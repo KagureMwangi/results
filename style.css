@@ -99,14 +99,14 @@ span{
 
 .second-container{
     width: 50%;
-    padding: 20px;
+    padding: 10px;
 }
 
 .summary{
     font-size: x-large;
     font-weight: bold;
     margin-bottom: 20px;
-    margin-left: 10px;
+    margin-left: 30px;
     font-family: 'variable';
 }
 
@@ -119,7 +119,7 @@ width: 70%;
 color:  hsl(0, 100%, 67%);
 display: flex;
 justify-content: baseline;
-margin: 10px;
+margin: 30px;
 gap: 10px;
 
 }
@@ -146,41 +146,44 @@ strong{
     background-color: rgb(244, 235, 218);
     display: flex;
     justify-content: baseline;
-    margin: 10px;
+    margin: 30px;
     gap: 10px;
 }
 
 .verbal{
     border-radius: 12px;
     padding: 10px;
+    padding-right: 0px;
     width: 70%;
     color: hsl(166, 100%, 37%);
     background-color: hsl(166, 37%, 88%);
     display: flex;
     justify-content: baseline;
-    margin: 10px;
+    margin: 30px;
     gap: 10px;
 }
 
 .visual{
     border-radius: 12px;
     padding: 10px;
+    padding-right: 0px;
     width: 70%;
     color:  hsl(234, 85%, 45%);
     background-color: hsl(236, 82%, 94%);
     display: flex;
     justify-content: baseline;
-    margin: 10px;
+    margin: 30px;
     gap: 10px;
 }
 
 button{
-    width: 80%;
-    border-radius: 16px;
+    width: 75%;
+    border-radius: 21px;
     background-color: hsl(224, 30%, 27%);
-    padding: 10px;
-    margin-top: 20px;
-    margin-left: 10px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 30px;
     color: hsl(0, 0%, 100%);
     border: transparent;
+    margin-bottom: 10px;
 }
